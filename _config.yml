@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settingsa
 locale                   : "ko-kr"
-title                    : "Caost 기술 블로그"
+title                    : "caost 기술 블로그"
 title_separator          : "-"
 name                     : "caost"
 description              : "caost's technical blog."
@@ -92,10 +92,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : 62344236
+    anonymize_ip         : false
 
 
 # Site Author
