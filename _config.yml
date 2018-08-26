@@ -14,9 +14,9 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Site Settings
+# Site Settingsa
 locale                   : "ko-kr"
-title                    : "Site Title"
+title                    : "Caost 기술 블로그"
 title_separator          : "-"
 name                     : "caost"
 description              : "caost's technical blog."
@@ -100,20 +100,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ted JY Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Ready for takeoff."
+  location         : "37.561132,127.183395"
+  email            : "caost.uni@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "caost.uni"
   foursquare       :
-  github           :
+  github           : "caost.uni"
   gitlab           :
   google_plus      :
   keybase          :
