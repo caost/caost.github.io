@@ -1,6 +1,6 @@
 ---
 title: "create swap"
-date: 2018-08-26 23:41:28 -0800
+date: 2018-09-05 11:23:28 -0800
 categories: linux
 ---
 
