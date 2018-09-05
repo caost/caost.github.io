@@ -1,3 +1,9 @@
+---
+title: "create swap"
+date: 2018-08-26 23:41:28 -0800
+categories: linux
+---
+
 ```
 fallocate -l 2G swap.img
 chmod 600 swap.img
